@@ -37,3 +37,4 @@ void CMenu::run() const {
 
         items[choice - 1].execute();
     }
+}

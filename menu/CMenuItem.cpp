@@ -9,3 +9,4 @@ void CMenuItem::execute() const {
 
 const std::string& CMenuItem::getTitle() const {
     return title;
+}
