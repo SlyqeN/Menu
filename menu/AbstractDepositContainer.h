@@ -11,4 +11,4 @@ public:
     virtual const Deposit* getDeposits() const = 0;
 };
 
-#endif // ABSTRACTDEPOSITCONTAINER_H 
+#endif
